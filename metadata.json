@@ -1,0 +1,7 @@
+{
+  "name": "ScaleShop AI - The IPO Factory for India",
+  "description": "Empowering 1 million Indian shops to scale from Kiranas to IPO-ready unicorns using AI-driven inventory, franchise tools, and automation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
